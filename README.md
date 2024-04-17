@@ -1,2 +1,2 @@
 # PrivComp-KG
-Leveraging LLM for Privacy Policy Compliance Verification Knowledge Graph
+Need to use Protege software to open this .owl file.
